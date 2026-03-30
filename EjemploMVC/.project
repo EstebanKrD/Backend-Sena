@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>Notas_Estudiante</name>
+	<name>EjemploMVC</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -16,7 +16,7 @@
 	</natures>
 	<filteredResources>
 		<filter>
-			<id>1773377709701</id>
+			<id>1773377709663</id>
 			<name></name>
 			<type>30</type>
 			<matcher>
