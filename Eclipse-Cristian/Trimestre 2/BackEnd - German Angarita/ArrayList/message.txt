@@ -1,0 +1,35 @@
+Nivel Básico
+
+Suma de Elementos: Se le proporciona un ArrayList de tipo Integer. El programa debe calcular la suma de todos los números presentes en la lista y mostrar el resultado total.
+
+Búsqueda de un Elemento: Dado un ArrayList de String y un String específico, el programa debe determinar si el elemento buscado existe dentro de la lista. Deberá imprimir un mensaje indicando si fue encontrado o no.
+
+Conteo de Ocurrencias: Se tiene un ArrayList de Character y un carácter objetivo. El programa debe contar cuántas veces aparece el carácter objetivo en la lista e imprimir dicho conteo.
+
+Nivel Intermedio
+
+Encontrar el Número Mayor: A partir de un ArrayList de Integer no vacío, el programa debe encontrar y mostrar el número más grande contenido en la lista sin utilizar métodos de ordenamiento.
+
+Creación de una Sublista de Pares: Dado un ArrayList de Integer, el programa debe generar un nuevo ArrayList que contenga únicamente los números pares del ArrayList original. Al finalizar, debe imprimir la nueva lista de pares.
+
+Concatenación de Cadenas: Se proporciona un ArrayList de String. El programa debe concatenar todas las cadenas de la lista en una sola, separadas por un espacio, y mostrar la cadena resultante.
+
+Nivel Avanzado
+
+Inversión de una Lista: Dado un ArrayList, el programa debe invertir el orden de sus elementos. Por ejemplo, si la lista original es [1, 2, 3, 4], la lista invertida debe ser [4, 3, 2, 1]. Esta operación debe realizarse modificando la lista original o creando una nueva.
+
+Eliminación de Elementos Duplicados: Se tiene un ArrayList con elementos que pueden estar duplicados. El programa debe generar un nuevo ArrayList que contenga los elementos del original pero sin duplicados, conservando el orden de la primera aparición de cada elemento.
+
+Reemplazo de Elementos: Dado un ArrayList de String, un elemento a buscar y un elemento de reemplazo, el programa debe sustituir todas las ocurrencias del elemento a buscar por el elemento de reemplazo.
+👀
+Haz clic para reaccionar
+✅
+Haz clic para reaccionar
+😆
+Haz clic para reaccionar
+Añadir reacción
+Editar
+Reenviar
+Más
+[18:58]jueves, 14 de agosto de 2025, 18:58
+Verificación de Palíndromo: Se le entrega un ArrayList de Character que representa una secuencia de letras. El programa debe determinar si la secuencia forma un palíndromo (se lee igual de izquierda a derecha que de derecha a izquierda), devolviendo un valor booleano o un mensaje que lo indique.
