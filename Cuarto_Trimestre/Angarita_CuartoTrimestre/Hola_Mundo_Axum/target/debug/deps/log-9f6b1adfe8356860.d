@@ -1,0 +1,10 @@
+/home/estebancardona/Documentos/Backend-Sena/Cuarto_Trimestre/Angarita_CuartoTrimestre/Hola_Mundo_Axum/target/debug/deps/log-9f6b1adfe8356860.d: /home/estebancardona/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.29/src/lib.rs /home/estebancardona/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.29/src/macros.rs /home/estebancardona/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.29/src/serde.rs /home/estebancardona/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.29/src/__private_api.rs
+
+/home/estebancardona/Documentos/Backend-Sena/Cuarto_Trimestre/Angarita_CuartoTrimestre/Hola_Mundo_Axum/target/debug/deps/liblog-9f6b1adfe8356860.rlib: /home/estebancardona/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.29/src/lib.rs /home/estebancardona/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.29/src/macros.rs /home/estebancardona/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.29/src/serde.rs /home/estebancardona/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.29/src/__private_api.rs
+
+/home/estebancardona/Documentos/Backend-Sena/Cuarto_Trimestre/Angarita_CuartoTrimestre/Hola_Mundo_Axum/target/debug/deps/liblog-9f6b1adfe8356860.rmeta: /home/estebancardona/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.29/src/lib.rs /home/estebancardona/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.29/src/macros.rs /home/estebancardona/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.29/src/serde.rs /home/estebancardona/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.29/src/__private_api.rs
+
+/home/estebancardona/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.29/src/lib.rs:
+/home/estebancardona/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.29/src/macros.rs:
+/home/estebancardona/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.29/src/serde.rs:
+/home/estebancardona/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.29/src/__private_api.rs:

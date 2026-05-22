@@ -1,0 +1,9 @@
+/home/estebancardona/Documentos/Backend-Sena/Cuarto_Trimestre/Angarita_CuartoTrimestre/Hola_Mundo_Axum/target/debug/deps/signal_hook_registry-b5779d933673a7db.d: /home/estebancardona/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/signal-hook-registry-1.4.8/src/lib.rs /home/estebancardona/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/signal-hook-registry-1.4.8/src/half_lock.rs /home/estebancardona/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/signal-hook-registry-1.4.8/src/vec_map.rs
+
+/home/estebancardona/Documentos/Backend-Sena/Cuarto_Trimestre/Angarita_CuartoTrimestre/Hola_Mundo_Axum/target/debug/deps/libsignal_hook_registry-b5779d933673a7db.rlib: /home/estebancardona/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/signal-hook-registry-1.4.8/src/lib.rs /home/estebancardona/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/signal-hook-registry-1.4.8/src/half_lock.rs /home/estebancardona/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/signal-hook-registry-1.4.8/src/vec_map.rs
+
+/home/estebancardona/Documentos/Backend-Sena/Cuarto_Trimestre/Angarita_CuartoTrimestre/Hola_Mundo_Axum/target/debug/deps/libsignal_hook_registry-b5779d933673a7db.rmeta: /home/estebancardona/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/signal-hook-registry-1.4.8/src/lib.rs /home/estebancardona/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/signal-hook-registry-1.4.8/src/half_lock.rs /home/estebancardona/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/signal-hook-registry-1.4.8/src/vec_map.rs
+
+/home/estebancardona/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/signal-hook-registry-1.4.8/src/lib.rs:
+/home/estebancardona/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/signal-hook-registry-1.4.8/src/half_lock.rs:
+/home/estebancardona/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/signal-hook-registry-1.4.8/src/vec_map.rs:
