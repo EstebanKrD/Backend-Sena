@@ -1,0 +1,67 @@
+version: "3.9"
+
+services:
+
+  db:
+    image: mysql:8.0
+    container_name: fullstack-mysql
+
+    restart: unless-stopped
+
+    environment:
+      MYSQL_ROOT_PASSWORD: Juanes2019.
+      MYSQL_DATABASE: fullstack
+
+    ports:
+      - "3307:3306"
+
+    volumes:
+      - db_data:/var/lib/mysql
+
+    healthcheck:
+      test: ["CMD-SHELL", "mysqladmin ping -h localhost -uroot -pJuanes2019. --silent"]
+
+      interval: 10s
+      timeout: 5s
+      retries: 10
+
+  # phpMyAdmin
+  phpmyadmin:
+    image: phpmyadmin/phpmyadmin
+    container_name: phpmyadmin
+
+    restart: unless-stopped
+
+    depends_on:
+      - db
+
+    environment:
+      PMA_HOST: db
+      PMA_USER: root
+      PMA_PASSWORD: Juanes2019.
+
+    ports:
+      - "8081:80"
+
+  # Spring Boot
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+
+    container_name: fullstack-api
+
+    depends_on:
+      db:
+        condition: service_healthy
+
+    environment:
+      SPRING_PROFILES_ACTIVE: docker
+
+    ports:
+      - "8080:8080"
+
+    restart: unless-stopped
+
+volumes:
+  db_data:

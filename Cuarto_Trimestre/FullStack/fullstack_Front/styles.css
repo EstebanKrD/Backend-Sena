@@ -1,0 +1,154 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  background: #f4f6f9;
+  padding: 40px;
+  color: #333;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 30px;
+  color: #1e293b;
+  font-size: 40px;
+}
+
+section {
+  background: white;
+  padding: 25px;
+  border-radius: 15px;
+  margin-bottom: 30px;
+  box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+  margin-bottom: 20px;
+  color: #334155;
+}
+
+.error {
+  border: 2px solid red !important;
+}
+
+#formulario {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  align-items: center;
+}
+
+input,
+select {
+  padding: 12px;
+  border: 1px solid #cbd5e1;
+  border-radius: 10px;
+  outline: none;
+  font-size: 15px;
+  min-width: 180px;
+  transition: 0.3s;
+}
+
+input:focus,
+select:focus {
+  border-color: #2563eb;
+  box-shadow: 0px 0px 5px rgba(37, 99, 235, 0.4);
+}
+
+button {
+  padding: 12px 18px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+#btnGuardar {
+  background: #2563eb;
+  color: white;
+}
+
+#btnGuardar:hover {
+  background: #1d4ed8;
+}
+
+#btnCancelar {
+  background: #ef4444;
+  color: white;
+}
+
+#btnCancelar:hover {
+  background: #dc2626;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+thead {
+  background: #2563eb;
+  color: white;
+}
+
+th,
+td {
+  padding: 15px;
+  text-align: center;
+  border-bottom: 1px solid #e2e8f0;
+}
+
+tbody tr:hover {
+  background: #f1f5f9;
+}
+
+td button {
+  margin: 0 5px;
+}
+
+td button:first-child {
+  background: #f59e0b;
+  color: white;
+}
+
+td button:first-child:hover {
+  background: #d97706;
+}
+
+td button:last-child {
+  background: #ef4444;
+  color: white;
+}
+
+td button:last-child:hover {
+  background: #dc2626;
+}
+
+@media (max-width: 768px) {
+  body {
+    padding: 15px;
+  }
+
+  #formulario {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  input,
+  select,
+  button {
+    width: 100%;
+  }
+
+  table {
+    display: block;
+    overflow-x: auto;
+  }
+}
